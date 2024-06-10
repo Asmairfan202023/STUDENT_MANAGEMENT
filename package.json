@@ -1,5 +1,5 @@
 {
-  "name": "student_management",
+  "name": "student_management2023",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -69,6 +69,7 @@
     "wrap-ansi": "^6.2.0"
   },
   "devDependencies": {},
+  "bin":"index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
